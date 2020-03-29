@@ -1,0 +1,28 @@
+
+header {
+  border-bottom: 7px double #007ACC;
+  font-size: 25px;
+
+}
+
+body {
+ background-color: #FFFFFF;
+ color: #000000;
+ font-size: 13px;
+ font-family: "Times New Roman";
+}
+
+div.mainPoints {
+    border-bottom: 2px solid #007ACC;
+    font-size: 20px;
+  }
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:#007ACC;
+    color:  #FFFFFF;
+    text-align: center;
+  }
